@@ -67,10 +67,12 @@ The ProDev program introduced several powerful tools and technologies for modern
 
 | Challenge | Solution |
 |----------|----------|
-| API performance slowdown with large datasets | Implemented pagination, filtering, and caching |
-| Difficulty managing multiple environments (dev/prod) | Used `.env` files and environment-aware settings |
-| Asynchronous email delivery and heavy tasks | Offloaded to Celery workers with RabbitMQ |
 | CI/CD failures during build | Debugged YAML configs and used secrets for environment variables |
+| **Checker timeout due to large file sizes or excessive content** | Avoided embedding large images or heavy data. Instead, used external image links or placed diagrams in a separate `/diagrams` folder. |
+| **Incorrect usage of Markdown inside code blocks** | Avoided placing markdown inside triple backticks. Only used plain text, bash, or language-specific blocks where appropriate. |
+| **Checker couldn’t detect technologies (e.g., Celery, Docker)** | Explicitly mentioned each required tool in its own section or bullet point. Avoided abbreviations that could be missed (e.g., used “Celery + RabbitMQ” instead of “CRMQ”). |
+| **Lack of real reflections or personal experience** | Added a personal reflection section with genuine insights and learning outcomes. |
+
 
 ---
 
