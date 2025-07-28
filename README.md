@@ -91,7 +91,7 @@ The ProDev program introduced several powerful tools and technologies for modern
 Project Nexus is not a solo effort—it’s an open knowledge hub that thrives on collaboration between:
 
 - 🧑‍💻 **Backend Learners**: Share code snippets, debug together, and brainstorm solutions.
-- 🎨 **Frontend Learners**: Consume documented APIs, provide feedback, and suggest improvements.
+- 🎨 **Frontend Learners**: Consume documented APIs, provide feedback, and suggest improvement.
 
 ### 📍 Collaboration Platform
 > Join the conversation in the **#ProDevProjectNexus** Discord Channel  
